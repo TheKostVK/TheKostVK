@@ -10,4 +10,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheKostVK)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/TheKost_)--> 
+<!--[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/TheKost_)-->  
