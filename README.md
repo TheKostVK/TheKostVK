@@ -8,7 +8,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheKostVK&theme=solarized_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKostVK)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheKostVK)](https://github.com/ryo-ma/github-profile-trophy)
-
